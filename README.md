@@ -1,8 +1,3 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=safwanishere)](https://github.com/safwanishere/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safwanishere)](https://github.com/safwanishere/github-readme-stats)
-
-
 <a href="https://github.com/safwanishere/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=safwanishere" />
 </a>
